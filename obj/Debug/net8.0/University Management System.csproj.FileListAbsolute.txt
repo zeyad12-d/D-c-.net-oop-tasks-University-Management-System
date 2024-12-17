@@ -1,0 +1,14 @@
+D:\c .net\oop tasks\University Management System\bin\Debug\net8.0\University Management System.exe
+D:\c .net\oop tasks\University Management System\bin\Debug\net8.0\University Management System.deps.json
+D:\c .net\oop tasks\University Management System\bin\Debug\net8.0\University Management System.runtimeconfig.json
+D:\c .net\oop tasks\University Management System\bin\Debug\net8.0\University Management System.dll
+D:\c .net\oop tasks\University Management System\bin\Debug\net8.0\University Management System.pdb
+D:\c .net\oop tasks\University Management System\obj\Debug\net8.0\University Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\c .net\oop tasks\University Management System\obj\Debug\net8.0\University Management System.AssemblyInfoInputs.cache
+D:\c .net\oop tasks\University Management System\obj\Debug\net8.0\University Management System.AssemblyInfo.cs
+D:\c .net\oop tasks\University Management System\obj\Debug\net8.0\University Management System.csproj.CoreCompileInputs.cache
+D:\c .net\oop tasks\University Management System\obj\Debug\net8.0\University Management System.dll
+D:\c .net\oop tasks\University Management System\obj\Debug\net8.0\refint\University Management System.dll
+D:\c .net\oop tasks\University Management System\obj\Debug\net8.0\University Management System.pdb
+D:\c .net\oop tasks\University Management System\obj\Debug\net8.0\University Management System.genruntimeconfig.cache
+D:\c .net\oop tasks\University Management System\obj\Debug\net8.0\ref\University Management System.dll
